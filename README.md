@@ -1,5 +1,3 @@
-# ecs289-fairness
-
 # Fair Credit Risk Prediction
 
 This project explores fairness-aware machine learning models for credit risk assessment. Traditional credit scoring algorithms often exhibit bias across demographic groups. In this project, I investigate multiple fairness intervention techniques to mitigate such disparities while maintaining acceptable levels of predictive performance.
